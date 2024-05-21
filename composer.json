@@ -14,5 +14,9 @@
             "email": "alex@blueselene.com"
         }
     ],
-    "require": {}
+    "require": {
+        "lib-curl": "*",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
 }
